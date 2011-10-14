@@ -1,3 +1,11 @@
+My try on a revival of this simple api.
+So far It failed since api2
+
+http://www.youtube.com/api2_rest?method=youtube.videos.list_by_user&dev_id=RCofu-vAmeY&page=1&per_page=3&user=ytlibtest
+
+does not return any useable data, ignore the rest :D
+
+
 # YouTube
 
 A Ruby interface to the YouTube [REST API](http://www.youtube.com/dev)
