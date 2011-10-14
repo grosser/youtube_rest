@@ -4,6 +4,7 @@ require 'youtube'
 require 'pp'
 require 'yaml'
 require 'set'
+require 'redgreen'
 
 # This test class assumes an active internet connection
 class TestAPI < Test::Unit::TestCase
