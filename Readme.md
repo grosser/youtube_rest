@@ -1,3 +1,5 @@
+# !! DOES NOT WORK !!
+
 My try on a revival of this simple api.
 So far It failed since api2
 
